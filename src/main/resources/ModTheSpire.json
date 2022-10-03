@@ -1,0 +1,10 @@
+{
+  "modid": "beeyee_TakeEveryCard",
+  "name": "Take Every Card",
+  "author_list": ["beeyee"],
+  "description": "Forces you to take every card in a card reward (if it's a deck addition)",
+  "version": "0.0.1",
+  "sts_version": "12-22-2020",
+  "mts_version": "3.19.0",
+  "dependencies": ["basemod"]
+}
